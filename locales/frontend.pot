@@ -1,0 +1,272 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-12-04 14:38+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#: frontend.py:58
+msgid "Church Financial Accountability Program {}"
+msgstr ""
+
+#: frontend.py:90
+msgid ""
+"Church Financial \n"
+"Accountability Program"
+msgstr ""
+
+#: frontend.py:122
+msgid "Settings"
+msgstr ""
+
+#: frontend.py:125
+msgid "Open"
+msgstr ""
+
+#: frontend.py:127
+msgid "Save"
+msgstr ""
+
+#: frontend.py:129
+msgid "Print"
+msgstr ""
+
+#: frontend.py:132
+msgid "Exit"
+msgstr ""
+
+#: frontend.py:134
+msgid "File"
+msgstr ""
+
+#: frontend.py:137
+msgid "Add Offering"
+msgstr ""
+
+#: frontend.py:140
+msgid "Add Income"
+msgstr ""
+
+#: frontend.py:142
+msgid "Add Expense"
+msgstr ""
+
+#: frontend.py:144
+msgid "Add Transfer"
+msgstr ""
+
+#: frontend.py:146
+msgid "Add Exchange"
+msgstr ""
+
+#: frontend.py:148
+msgid "Transactions"
+msgstr ""
+
+#: frontend.py:151
+msgid "Make a Report"
+msgstr ""
+
+#: frontend.py:152
+msgid "Make a Balance Sheet"
+msgstr ""
+
+#: frontend.py:155
+msgid "Reports"
+msgstr ""
+
+#: frontend.py:158
+msgid "About CFAP"
+msgstr ""
+
+#: frontend.py:159
+msgid "Help"
+msgstr ""
+
+#: frontend.py:163
+msgid "MENU"
+msgstr ""
+
+#: frontend.py:172 frontend.py:174 frontend.py:191 frontend.py:231
+#: frontend.py:686 frontend.py:780
+msgid "General Ledger"
+msgstr ""
+
+#: frontend.py:195
+msgid "Offering"
+msgstr ""
+
+#: frontend.py:198
+msgid "Income"
+msgstr ""
+
+#: frontend.py:201
+msgid "Expense"
+msgstr ""
+
+#: frontend.py:204
+msgid "Transfer"
+msgstr ""
+
+#: frontend.py:207 frontend.py:275
+msgid "Exchange"
+msgstr ""
+
+#: frontend.py:236 frontend.py:272 frontend.py:316 frontend.py:818
+msgid "#"
+msgstr ""
+
+#: frontend.py:237 frontend.py:273 frontend.py:317 frontend.py:819
+msgid "Date"
+msgstr ""
+
+#: frontend.py:238 frontend.py:820
+msgid "Account"
+msgstr ""
+
+#: frontend.py:239 frontend.py:277 frontend.py:821
+msgid "Base"
+msgstr ""
+
+#: frontend.py:240 frontend.py:378 frontend.py:445 frontend.py:455
+#: frontend.py:459 frontend.py:822
+msgid "Debit"
+msgstr ""
+
+#: frontend.py:241 frontend.py:483 frontend.py:493 frontend.py:501
+#: frontend.py:823
+msgid "Credit"
+msgstr ""
+
+#: frontend.py:242 frontend.py:824
+msgid "Ex-Rate"
+msgstr ""
+
+#: frontend.py:243 frontend.py:279 frontend.py:320 frontend.py:825
+msgid "Memo"
+msgstr ""
+
+#: frontend.py:244 frontend.py:280 frontend.py:321 frontend.py:826
+msgid "Payee"
+msgstr ""
+
+#: frontend.py:274 frontend.py:318 frontend.py:541 frontend.py:564
+#: frontend.py:572
+msgid "Amount"
+msgstr ""
+
+#: frontend.py:276 frontend.py:319
+msgid "Balance"
+msgstr ""
+
+#: frontend.py:278
+msgid "Base Balance"
+msgstr ""
+
+#: frontend.py:347 frontend.py:407
+msgid "Window Open"
+msgstr ""
+
+#: frontend.py:348 frontend.py:408
+msgid "You need to close a transaction window before beginning another."
+msgstr ""
+
+#: frontend.py:359
+msgid "Input Offering"
+msgstr ""
+
+#: frontend.py:363 frontend.py:423
+msgid "Date (DD/MM/YYYY)"
+msgstr ""
+
+#: frontend.py:371 frontend.py:438
+msgid "Description/Memo"
+msgstr ""
+
+#: frontend.py:394 frontend.py:521
+msgid "ENTER"
+msgstr ""
+
+#: frontend.py:396 frontend.py:523
+msgid "CANCEL"
+msgstr ""
+
+#: frontend.py:419
+msgid "Input {}"
+msgstr ""
+
+#: frontend.py:431
+msgid "Name/Payee"
+msgstr ""
+
+#: frontend.py:467
+msgid "Debit (TAKING FROM)"
+msgstr ""
+
+#: frontend.py:475
+msgid "Debit (GOING TO)"
+msgstr ""
+
+#: frontend.py:505
+msgid "Credit (GOING TO)"
+msgstr ""
+
+#: frontend.py:513
+msgid "Credit (TAKING FROM)"
+msgstr ""
+
+#: frontend.py:545
+msgid "ExRate"
+msgstr ""
+
+#: frontend.py:662 frontend.py:667 frontend.py:703 frontend.py:708
+#: frontend.py:735 frontend.py:740 frontend.py:783 frontend.py:789
+#: frontend.py:794
+msgid "Incompletion Error"
+msgstr ""
+
+#: frontend.py:663 frontend.py:704 frontend.py:736
+msgid "Please fill out exchange rate."
+msgstr ""
+
+#: frontend.py:668 frontend.py:709 frontend.py:741
+msgid "Please fill out the amount of the alternate currency."
+msgstr ""
+
+#: frontend.py:784
+msgid "Debits and Credits do not equal each other."
+msgstr ""
+
+#: frontend.py:790
+msgid "Please write a description."
+msgstr ""
+
+#: frontend.py:795
+msgid "Please enter a real date."
+msgstr ""
+
+#: frontend.py:806
+msgid "Excerpt of General Ledger"
+msgstr ""
+
+#: frontend.py:918
+msgid ""
+"Church Financial Accountability Program\n"
+"Version {}\n"
+"Copyright 2018 (c) Joseph Sumi"
+msgstr ""
+
+#: frontend.py:920
+msgid "About"
+msgstr ""
+

@@ -1,0 +1,116 @@
+{
+  "Church Name": "Church",
+  "user": {
+    "plebian": "Default User"
+  },
+  "bgcolor": [
+    "#e6ffe6",
+    "#e6f3ff"
+  ],
+  "font": "Helvetica",
+  "language": "en",
+  "accounts": {
+    "assets": {
+      "1010": [
+        "Cash UAH",
+        {},
+        "Ukrainian hryvnia (UAH)",
+        "The amount of cash on hand."
+      ],
+      "1020": [
+        "Cash  USD",
+        {},
+        "United States Dollar (USD)",
+        "amount in US dollars"
+      ]
+    },
+    "liabilities": {},
+    "equities": {
+      "3000": [
+        "Undesignated Funds",
+        100,
+        0,
+        "Funds given without a specifically stated purpose or ministry."
+      ],
+      "3005": [
+        "Designated Funds",
+        0,
+        0,
+        "Funds given for a particular purpose. Use this fund for Designated Funds that do not occur regularly necessitating their own fund page."
+      ],
+      "3010": [
+        "WEF Allocations",
+        0,
+        0,
+        "Allocations reserved for the World Evangelism Fund."
+      ],
+      "3011": [
+        "District Allocations",
+        0,
+        0,
+        "Allocations reserved for the local District."
+      ],
+      "3012": [
+        "Education Allocations",
+        0,
+        0,
+        "Allocations reserved for the Fields' District Expenses."
+      ],
+      "3020": [
+        "Special Offerings",
+        0,
+        0,
+        "Collections taken up for a specific project, but are not gifts."
+      ],
+      "3030": [
+        "Pastoral Salary",
+        0,
+        0,
+        "Money for the Pastor"
+      ],
+      "3040": [
+        "Worship Band",
+        0,
+        0,
+        "Funds to help pay for music and worship"
+      ]
+    },
+    "revenues": {
+      "4010": [
+        "Other Income",
+        0,
+        0,
+        "If there is no better fund to use."
+      ],
+      "4020": [
+        "Gain from Exchange",
+        0,
+        0,
+        "Funds accrued through possible gains in exchange rates."
+      ]
+    },
+    "expenses": {
+      "6010": [
+        "Other Expense",
+        0,
+        0,
+        "If there is no better fund to use."
+      ],
+      "6020": [
+        "Loss from Exchange",
+        0,
+        0,
+        "Funds lost through possible losses in exchange rates."
+      ]
+    }
+  },
+  "allocations": [
+    1,
+    {
+      "WEF": "5.5",
+      "District": "5",
+      "Education": "5"
+    }
+  ],
+  "payee_names": []
+}
