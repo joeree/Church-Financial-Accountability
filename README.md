@@ -7,7 +7,7 @@ software was either too costly and/or advanced and free software did
 not work with multiple languages or currencies and/or was not user friendly.
 """
 
-"Feel free to download and try the program. This program is not feature complete at the moment, but should be usable."
+"Feel free to download and try the program. It is built on the tkinter GUI. This program is not feature complete at the moment."
 
 "At the moment translations for Russian and Ukrainian are far from complete."
 "If you would like to add translations, please see the 'locales/*.pot' files. (Although they may not be fully up-to-date.)"
