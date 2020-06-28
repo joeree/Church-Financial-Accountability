@@ -1,6 +1,6 @@
-# Church Financial Accounting
+# Church Financial Accountability
 """
-Church Financial Accounting was created to give 
+The Church Financial Accountability program (CFAP) was created to give 
 local churches and small NPOs a resource in keeping transparent and accountable
 financial documents. It was developed from the need that current finance
 software was either too costly and/or advanced and free software did 
